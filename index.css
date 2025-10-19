@@ -1,0 +1,17 @@
+#logo {
+  height: 150px;
+  border-radius: 100px;
+}
+
+header {
+  display: flex;
+  gap: 50px;
+}
+
+#brand {
+  font-size: 50px;
+}
+nav {
+  gap: 20px;
+  flex-direction: column;
+}
